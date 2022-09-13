@@ -1,0 +1,3 @@
+function cdh 
+    cd ~ 
+end
