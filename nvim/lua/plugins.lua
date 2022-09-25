@@ -33,7 +33,8 @@ packer.startup {
     -- it is recommended to put impatient.nvim before any other plugins
     use { "lewis6991/impatient.nvim", config = [[require('impatient')]] }
 
-    use { "neoclide/coc.nvim", branch = "release"}
+    use { "neoclide/coc.nvim", branch="release"}
+
     use { "wbthomason/packer.nvim", opt = true }
 
     use { "williamboman/mason.nvim", "williamboman/mason-lspconfig.nvim", "neovim/nvim-lspconfig"}

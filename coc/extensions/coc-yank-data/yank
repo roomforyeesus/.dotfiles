@@ -1,0 +1,216 @@
+482c34500452aae40e75eb69a2d31a00|file:///Users/home/Dev/leetcode/code.py|1|1|V|python
+	  ~/.conddd
+ba493c1e6e448efbf4d2949d751598cb|file:///Users/home/Dev/leetcode/code.py|1|1|V|python
+	git clone https://github.com/github/copilot.vim.git \
+c1c425268e68385d1ab5074c17a94f14|file:///Users/home/Dev/leetcode/code.py|6|9|v|python
+	function
+ba84abba17cafd76a3dfa4ac8a4e4528|file:///Users/home/Dev/leetcode/code.py|1|1|V|python
+	    def d(self, arg1):
+	        """TODO: Docstring for d.
+	
+78b4663bf4f21190a0d10c1e5aa8a675|file:///Users/home/Dev/leetcode/code.py|1|1|V|python
+	        :arg1: TODO
+	        :returns: TODO
+	
+	        """
+c16bf2542cc34567d355784564d365d7|file:///Users/home/Dev/leetcode/code.py|1|1|V|python
+	        pass
+be8db30bbfe81e57641a7829505d4dc1|file:///Users/home/Dev/leetcode/code.py|1|1|V|python
+	def calculate(list):
+b5c726a94905cc370dcbba3b3faba63f|file:///Users/home/Dev/leetcode/code.py|1|1|V|python
+	# write a function to calculate the sum of a list of integers
+02e0f51a0dc348c3bae1a35c2bcdab83|file:///Users/home/Dev/leetcode/code.py|1|1|V|python
+	print("hello world".format())
+4c9c574abdd31fe1ec8eaf2db17498b2|file:///Users/home/Dev/leetcode/code.js|5|1|V|javascript
+	  console.log(r)
+	}
+5bc95cc9bf9e59bae6aba94ce01875b2|file:///Users/home/Dev/leetcode/code.js|3|1|V|javascript
+	function a (r) {
+	  r.replace(/X/g, "10").replace(/IX/g, "9").replace(/V/g, "5").replace(/IV/g, "4").replace(/I/g, "1")
+32d8b4cbb59406ae4bda4d38704bf89c|file:///Users/home/Dev/leetcode/code.js|1|1|V|javascript
+	let r = ["XIV"]
+	
+1b4397a7f43aeb868cea7d2ba68ad445|file:///Users/home/Dev/leetcode/code.js|2|1|V|javascript
+	let r = ["XIV"]
+83aadbd8cad59ccc609858809540a2cf|file:///Users/home/Dev/leetcode/code.js|1|1|V|javascript
+	fdd
+	unction calculateDaysBetwe;
+3e1501da2c8143f072a656095d69cc1d|file:///Users/home/Dev/leetcode/code.js|1|1|V|javascript
+	function calculateDaysillEOY
+7cb7e78d4b3c03abf2b3e317b04dffb6|file:///Users/home/Dev/leetcode/code.js|1|1|V|javascript
+	function calculatetime
+e9d571d2173f2cd44471e9fcd46610a9|file:///Users/home/Dev/leetcode/code.js|1|1|V|javascript
+	function calculate_time
+ab767266e337b06b173974c8e6e3ec77|file:///Users/home/.dotfiles/nvim/pack/github/start/copilot.vim/plugin/copilot.vim|1|1|V|vim
+	imap <silent><script><expr> <C-j> copilot#Accept("\<CR>")
+61cd4042fa666d5a9d0013eba2e599bb|file:///Users/home/.dotfiles/nvim/pack/github/start/copilot.vim/plugin/copilot.vim|6|32|V|vim
+	let g:copilot_no_tab_map = v:true
+4b05386772cf4b0cfcbea193d8fc0054|file:///Users/home/Dev/leetcode/code.js|1|1|V|javascript
+	function getfromAPI 
+62d4fcac36d29201831c19c207b21742|file:///Users/home/.dotfiles/nvim/lua/config/nvim-cmp.lua|16|26|V|lua
+	      elseif vim.b._copilot_suggestion ~= nil then
+ee9b902f41c6cee35c3e42e07b69110f|file:///Users/home/.dotfiles/nvim/lua/config/nvim-cmp.lua|16|26|V|lua
+	        vim.fn.feedkey(vim.api.nvim_replace_termcodes(vim.fn['copilot#Accept'](),true,true,true))
+4ef7536febe5bf561e10df645842d55e|file:///Users/home/Dev/leetcode/code.js|1|1|v|javascript
+	calculatdddd
+75d6c1b65fa2bd1fe0bb797685b5b7ae|file:///Users/home/Dev/leetcode/code.js|1|1|V|javascript
+	function e 
+f09a36b0526ee14b0ea467aabd8e182d|file:///Users/home/Dev/bloomtech/coinflip.js|7|1|v|javascript
+	
+	if (coinFlip = 0){
+	  console.log(tails)
+	}
+396252c34d79cd81586d355e6b041fa5|file:///Users/home/Dev/bloomtech/coinflip.js|2|1|V|javascript
+	var coinFlip = Math.round(Math.random());
+b6a8c2812b3298a9afbfc7bb11e2a992|file:///Users/home/Dev/bloomtech/coinflip.js|9|12|v|javascript
+	ntHeads = countHeads +1;
+77cc2996f21e02b8ae24836fc5ee8ba4|file:///Users/home/Dev/bloomtech/coinflip.js|9|1|V|javascript
+	        countHeads = countHeads +1;
+5c25c0c5cc6693af4ebb60a1bc05fcba|file:///Users/home/Dev/bloomtech/coinflip.js|8|12|V|javascript
+	        console.log("heads");
+	      } else {
+21c3cb9bec279b1e23042de083b6a1d5|file:///Users/home/Dev/bloomtech/magicEightBall.js|1|1|V|javascript
+	   console.log(fortune}d
+514cb9d8142d51ae2537b2cc66698b10|file:///Users/home/Dev/bloomtech/magicEightBall.js|1|1|V|javascript
+	  var fortune = fortunes[getRandomInt(0, 8)];
+88fa71f0a6e0dfedbb46d91cc0b37a50|file:///Users/home/Dev/tradeAssistant/index.html|6|16|v|html
+	Index
+2359432ad3e34baecfe53f112f2b4aae|file:///Users/home/Desktop/pgp.asc|52|33|V|
+	-----END PGP PUBLIC KEY BLOCK----
+500dce5d52191fe1bb57825ed1cf6196|file:///Users/home/Desktop/pgp.asc|51|5|V|
+	=89kK
+bcc1c6a6f1802057e98e26776d4d8a6d|file:///Users/home/Desktop/pgp.asc|50|5|V|
+	YyCMaftTacP4HIM=
+54e7902a5ca69f6f71edc12fd0172bf8|file:///Users/home/Desktop/pgp.asc|49|5|V|
+	mb7eEDYuV1b1tp1uUec03K6pNwxN58syAHZdyj044jApdjrnah1fZGqOd/7P0d8n
+5a8040bc573d063ae3a122061b2a1fe9|file:///Users/home/Desktop/pgp.asc|24|1|V|
+	WNGxmiZFKYH7IDC5c3NnJWD+BZg0zFobaztB9Il3JEGKBUd8IAimIoM/FeFFtHtg
+	6RlNl98qy7z+RmH18j0H/O3X1N1up4YyW3NkeIpCcDNR0IBxUQTysZ0ehpV3iQku
+	3iU1LZ05FEfl6aXtHvJXAGxZHK1jANKkmKijwHzz2ApVv8/aOcaS8TdZthyMx9jr
+	vtVcB4lwupeh+jGNuQINBGMf228BEACWxKFkyRDjemnlFsf/KHLBmyeuUkrKPQy2
+	+cGfPdKVNyObzl0cinV4SSKMOKCR7Fc7kXGYw3w6gfmCOYFDUmu8mZqKw/BDuIof
+	WhGyIa+g9QQBkIXi69c09oaKwbDRpNGtDaGhSiwl5QW1JoG+OfS1aco7TsJ5v7eM
+	gIAkbJRSaXn13UO+7HNsIgOFm6SIBFwe1Q/Im+yjLZjvYMy4KQniHO6lDYXG453k
+	t1PlxtXXVVvJ8uqmCGUSgH54pDmRhLFCTQvt7ydzaDL9ZAVgJf8srMcER3sEnhCt
+	fDo1xZVANX2vsJF7UKpuqhSnOfeq6Zi7qJx3kRi+mfW0dStRgRL7u864KdxUJVSz
+	PLIyqoCbzjC3LWuM4eYlz3m9pYch3jKo0xtBH3frQsKNPmyjg0YP6asmx+ALYyNT
+	1j/OKcQn0/6k6zi0Nx2bpolZ7unpI9iHukSkzIbiyRGrA9KeWK9oNNZE+YL2fPI8
+	mzM8KQwP7SZZRp6Iu1V7GxxBu8/sxBPSTnQotlfpICsr8Wt7A5pvGVOfOnNuGoa+
+	wZXFDCInGab7mBKQT7IHbWQJ3UGlmTXGJCP3YXzG/B8WPeSYlXFFumaMyABSK2TB
+	nvHh6Ulf0uiIsDxFu6I0r0XPsCkLMc/NOkkaxpy2J/g58jfCoIsNN6PpSLByHRad
+	8UfEksAWgwARAQABiQI8BBgBCAAmFiEEr4qR9gRxqq6MtmhrCQIGjvjqZeEFAmMf
+	228CGwwFCQeGH4AACgkQCQIGjvjqZeGwXxAAtSWOwXg+d5OtTX3M5zIA6+8EADbJ
+	XiYLe9jrk0nNm24jdrE522BAGwL2RS38oNHDtmtaJ1bG5cnH4jLel4iIspxlHiNT
+	FYOfF6B9qASRxufzMyrObASWWQ3LBQjy4EKkYjQIC5rNslFhELghYAPNvcF0FdjI
+	e47UyR3H56bFVkgXY/XxbChgAQeiMjxZtkgQb7XaqH1zhL4hhZFDTglQyqyFvtz7
+	5fLNAb7NFHNKX5uBn4AMfbtXdS3cdwFPEhRcBM7MSOO5I0KLuQsgA+Wh6jwP7XUM
+	0g+tsP6anISoJVjXvc7RYjZ2HkpW8sIbU+LtOm20/55adEZ1Z+vyUmn6J1VrHMur
+	Kj+y/TtrdFZjLjLt4so5/DZXdrEJFjUJI/Jq65Kg1lVR0VKZJXRLshcWXcJFY6jv
+ae4829edf9ceb18119c447584b7b7bed|file:///Users/home/Desktop/pgp.asc|24|1|V|
+	WXfr5/xaBGHH6cNyD8rChLgriDYkBhzAZkXqhIahkkhSQyAr1vqPYHd5Ceajh9XZ
+	wq/2JRq+9OSHrhRB7Si371NKO97Lj4sD3JhQ16cZxpecQufxmNtYtkhsrT0EZwL1
+98b0ce78e364d83b187d9939c91ae4b3|file:///Users/home/Desktop/pgp.asc|24|1|V|
+	DMCK9OYUukFEtrwYeS1MF5ieLSjnhti3gPF08eg5eQdKefKhsTxI81RNBnjJ1i1e
+c152dd475297f09bed416140bd166b18|file:///Users/home/Desktop/pgp.asc|23|1|V|
+	ofzhjQRvlUzGZffJ9BsY5KjjpdPc0gemy4wNSTOuMEBsx/BpH8bP8nmQnQg0JKMW
+076521ff30fbac399fc729f1c12a5c36|file:///Users/home/Desktop/pgp.asc|22|1|V|
+	dB8lamFYyaQhRdvCQCaBy26KOJ4xZ1T1VyZvaISVqVU5Hvj+YUS+njcw/DtkjXXU
+bbe31346a397a723171b302b799aa42f|file:///Users/home/Desktop/pgp.asc|21|1|V|
+	k5b/VLdHZ8sIePAsR0CdJeDBdlc0ID/HAFoWGDj2Qzngh052xiVReOzUrPsuZJcp
+fbb53592f67577aaf7bad74701f9c499|file:///Users/home/Desktop/pgp.asc|20|1|V|
+	ih8DBSZsHs96AyfhTcAVvHFnu86MXd/GkZ3+MnYgtvDAd6Ba91c/yBTL6WQZGiwd
+71577b1719ad9d27921cc16814ac97e4|file:///Users/home/Desktop/pgp.asc|19|1|V|
+	1rRLFyDhdCLAC5jbO2UwXQeg6cGv3gnHx4fssMq3dE3bQLDY5AQEtakgszEQO0Q0
+76b10c0ab203546bac8a3583b9159fa2|file:///Users/home/Desktop/pgp.asc|18|1|V|
+	fqWKNKF91sK4BE/yC3D3IdQlE25Muklha1ExcrZ/Xywh6Y9/Y7kQa+VvicAS/jut
+6f8e4ec0dad0f80fe3bb1cd04ae1f5cf|file:///Users/home/Desktop/pgp.asc|17|1|V|
+	WqXtlBhS+/URcygVW0R6RR9OwG9MZnSRMrcHdLplexKVJjk+aIT/wveOWAYhOMe4
+9f59f62723d3121de263a53dced2036b|file:///Users/home/Desktop/pgp.asc|16|1|V|
+	AgQWAgMBAh4BAheAAAoJEAkCBo746mXhL04P/3A60he9uj4QR65IBbpQW2bmgISC
+5c24be89980c8491de8ce39c27d862d4|file:///Users/home/Desktop/pgp.asc|15|1|V|
+	BK+KkfYEcaqujLZoawkCBo746mXhBQJjH9tvAhsDBQkHhh+ABQsJCAcCBhUKCQgL
+a5563f459c999a65d0dadefb36ea5023|file:///Users/home/Desktop/pgp.asc|14|1|V|
+	tCNiYXJzdXBwbHljbzEgPHNtYWxsZGlja0BzdWNrbWUuY29tPokCVAQTAQgAPhYh
+bec3648c712eac55222b892b8d56d88d|file:///Users/home/Desktop/pgp.asc|1|27|V|
+	-----BEGIN PGP PUBLIC KEY BLOCK-----
+	
+	mQINBGMf228BEAC9gu0CPIBlnCBBUU1TT7l0OAvK3YUp2dl1Dc+Qx3+j5hdKWJUM
+	Gk+iqjAWqv3jYnYph8kgU51JOY293/2+AuF+TuzTCXm8Mv76BAzPDIAqTQqYMr6Y
+	qplGRO4KqEK+4Yxjs7Ret6eobhLGrkG60tozdfkCnDJRomThnbyzOoEovsLX6nri
+	BR7qp/S0dgoZlozYYKxK+6SePKiGYhZmV2xsLCoHnyuiOmmETaA9uSPnbz1ht0y4
+	G/RRuU5rgxo5IUanJEmMtf6+IFNm5j+QvL9cCsGFEKFv8EYRZJ22HLzL7dlDZ0IL
+	XVmwf4eIOmQlg/UwsihpsbSkve+mFBUnvgKkShP+sO1CmhVP/EGSk4uJ/hD96NQK
+	fx2awVIbeXa/t/vS6q8XxPDPyvGOCS++87qdf2MWYnuVYEajpJWHWg3fmj5O1lcM
+	dkPEIO/y56tR9L34Yo73jyo69O3wNuGMxxwxqzwKgpgrCCprCnjY2CfjDihadIw/
+	sELXIcYuxMU7bZggnsSu5bOFljGJ2fI3qZ6K03Q1El961y3eZsLsphpkoCO8x74J
+	6iNxHxJOEIu7opSC1QFSZb2Kqapq6gbfQ/zT7C0bkdsyd01G9SDoGmonm7E04RBj
+25be9a6465eb4a5ef15696bcf178c64a|file:///Users/home/Desktop/pgp.asc|1|27|V|
+	mpISLSGL+oRCQVW2tTg9Oj/keQ1BQk4KZqspCpRfVwsBgJdjWxary9xbHwARAQAB
+81d1e4f8fe6a14afea7a24b174ae5884|file:///Users/home/Desktop/pgp.asc|1|1|V|
+	-----BEGIN PGP PUBLIC KEY BLOCK-----
+	
+	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
+	YyCMaftTacP4HIM=
+	=89kK
+da42174ab600eeb9abec6645718d024d|file:///Users/home/Desktop/pgp.asc|1|1|V|
+	-----END PGP PUBLIC KEY BLOCK-----
+50f2043144c51ed7cb9626f178f25093|file:///Users/home/Desktop/pgp.asc|1|27|V|
+	-----BEGIN PGP PUBLIC KEY BLOCK-----
+254db500f860e3ec09ea11819ad50b00|file:///Users/home/Desktop/pgp.asc|1|1|V|
+	xsFNBF5453sBEACzbwx1gSEpsDEUeL1jkZgRXl/9mv5e48z5YsO/ELvKwc87jbDC lIdqKcyTT3nT96icMaXCyQLJ4VEdAit82KySMWwGzegJlUzLNYVBkHpIhjdeqBOC beuM5qeB+cydP4PtBKDQxqIcgg/w/fLpiHRM40qOAON2xOx0Z5ZCDjg/NwoAHAsX 3vKNu4X/jhCVqqdutd2kOVKc6CBOTlbLwjP4lMAdKEmvfUb9ZMWze+BTocSf4MQ6 cBtNrXZ5Uv1yX0uMQwPw37R3ZLqOjFx7qg7gyKq8jRQaKYo3gOSyO02nZabjwlDH DZhkxuCjj2dP2tYfADga7H3uxBr/6q8xm3g8TCP1gwCXZWq1rigO9ghdqOW76nBD EjvgpdE0Ni4DXLGKoMsI1AlV3QjVqHK08mypRpupLyAuYZ7GjaBpCeR+LTZbd4YT 46z5MHf85VLi9zDP4kPjn0TbVncHgltTurYfNBFCsnXjQCffKF80IldgQt/Go9CH kTt7eKitZ847D416UwJ4WiHwmVwTQyqTbHtBUmb6Y1/0NP/pcg2JUJ6FExXInvVA 3fIPr8PUf6djhScifUXTo6fzL7b6EgrXoqN00GwcpTt8HCt+9z3fAtRjYcA9+xc+ zIGSrY66t1FvTpZh7ebV8nfuIIcmE+YpCDQYe2gcRzjRJ9z9+I687tlj0wARAQAB zRxzYWJiYXRoZG91YmxlQHByb3Rvbm1haWwuY29twsFwBBMBCgAaBQJeeOd7Ah sv
+ff8b7c49f6f5bd05543b811c57188492|file:///Users/home/Desktop/pgp.asc|1|1|V|
+	AwsJBwMVCggCHgECF4ACGQEACgkQIDqu4Q79YHZGDQ// YJApV+Y1sddsYfJfsOiZ hsydZ8w2Ubo7Dc55yZc7+uw7M2MQqWE9TsxA5ETcXhPJiEje/3IqYIZdmJEFikLX 1ITPoG1lUBy1iyeE0oiCTt6xx8L29UOpgOLKk+Xi6Zh8Znnsx9PZJszB1MiaacWR im02jLyMnop50ly6fMJx+Z3GdaBKfp2nd6EL0ByVZJyfZ08OZFjhyGnr1DVds1JN KUQtnzLs4WM0HauAadIGkJYC/2L147IT5FGBtOo3J0t+TG2/KdfHs0IE3NdxLl/i Y5rutm/PWrGE7cVC66Nta1Od6C26wzJqsq3nYtaQzRtnkaZPiyGX4awOYNBeJwE8 mwcfmsyNVHVeJT1AM6+kp2NxjVZoDEwpLA69+KtKc827DqEejb/0KDCbIH5iFruB gfRl1na1Vodkhw3t7gMvjbKkhWXK2la+gExTaDysbRu/BZ4eaQaUVTKgXSPTToDJ Ty2n1T3jvwcYvDsvzFLc6uVrcGXRkGKdL883aI/eoEDZM0Ol19ARBRoidCRGCKpU BquScOZ+Sv0o8447XcQFRwqp/a0bngEScWl9CVwIe1pSlzOlZnLp7WvjOLKwj8Yv GclAF487rjdnt5cm36Qwwc1bROSyE9nyuZhZyUXoQxtFrNdkDAYmY76vIu6qP0sb TQqtIGySzzp4uPFK/SUpY7zOwE0EXnjnewEIAMOyJJKiYTM9FYyrPgPT4k3v0CEc BcCG7OtZonNxe2XFg6PWDquG24U+tg5+NIL5vb5sLm+O0y406QTlqHDHINvO8h SW RHr2e14wDE6/rl43Uq8zPNlPMF5HxzSD6O9N2ShI73r5t/DOzvvVco7AnUf7V8pG JfeIjfY5UM11G262012ttfblLgEnV1nIEiuZoGQJttI9/fb6WSEvciUgWVdtKEvm NbFnFPfalnzqdtJ94UM9AgBnAVWEzmKvHGPaUw/ u5CGr5na81YvK+6uZsX4gh7PW wJ8bsf9oRNq+9OXBJDvgOndNsdprUEf9GzIFWp3mVDQlxCwQbQNzmSv0ij0AEQE A AcLChAQYAQoADwUCXnjnewUJDwmcAAIbLgEpCRAgOq7hDv1gdsBdIAQZAQoABg UC XnjnewAKCRC9MxIkFTT6lM5PB/9SCRnFAy0DEONDCeLqrTrPWYoziDXuppQu+jy0 A7eQfui1ErD/wHCzBQaIjqvaJi6t84EiVkjlKyxwjLNUSCSopjifIe+gFUJ98qRX
+4f76a3e3b90538a90c343c15c8b629b2|file:///Users/home/Desktop/pgp.asc|1|1|V|
+	 gBR2Kt+Pk/9NQNVieZRgYEvSLagnRYRPTmXJXbjAv1dcoqmqP/XnI6JoIDAecpgw rvXhqSQse3vGlMFb40QzQ1bfWB0E2Pa5bXyCkVG+6PmcDAG5WgJ3JmDgBSdcG 0mL
+8895505b469f9ab758f0fe4244320367|file:///Users/home/Desktop/pgp.asc|1|1|V|
+	I0QDv6ePz/h2jBJGS8Btgaxe3+rwxkc/tv/2p7aRtnekcalalpk/MWVMlt7QaY28 Vl1/TWFc4oMcF4I+8nNTCiXsA9GrtUOI6BQDK4xjR0bXVlo93O8P/0fODpl7b6oh tXdDUCq1Ir6QTP02b+R7/J3uzor9NNsa3Iwjl1YCJxb3zDGmhEM/LaCo9cAe47nm gcjWd6o/2m7Du6WlGgibGpM7SFGo5rptkymolV6waDI9pob3GXJ2H907pC3XYu1p sM0lH5PNbEh8QiuFq0HiBVo7KOmnWS9JotvTBgEMIBN5/Gl1Ga7lZHTGFNDTIFg5 ZJGs3TxXU8IqmvEEoMYJ8DW9tNgpYcXUrtILTeb+iFmHvJtXdEVYJwMGWuyZnH8 E x0czd2YOj9L01O7LPzZqPb8qEeR9y3AhuLeUC9UbBCgrIUeKqgv4HSTVa4fLVujA 9x2P5q6IAbtFkYOJDAeYKxU3WCaawZNbRPHvUfN8IfkV1tG1UhaR2VhKk2kb8sUL HVkQu9sJbvI9e4/xmAZs7wczycpDQAGcLj1yYDyqt1cLJt2Nb6ttvgYNT79Fndti PFfpdui3QgxteB7S+6fNZE7fYkqsHSC1FEeTBH4V/K0WRUBnNQnZdIEQUwIK4o+/ wC7GFf+zreVzY4ym/XXLs1urY1hoPLmHMk5/uY8r0/Cn32n2ar71k9p5HVd/78zc Urx4Ts6YMgyuUjkfsvve3YB4uI3Tx0glMH9aYa3vGexnycexCcRmZxdmU0bqoUpy td6XhCePPntbGOfkiaCNy/ VtVhNBf2LMzsBNBF5453sBCADDaCR3KmicHxgVYmLm 9I+cBHH3/5iS21ult85xAigSYBDqWl5MzOvuUC9tDszt0csnryc43n/Jmm3GYZhT aivc/gKGDWqraGd+oDCc24bMDoR16AZghrW42CeC2+PHi5i4sfoR631Kl1NEN/+G 60gXKHenJirEq0an8QllGVt5i50222h6i5AP9rtVj7aWXzoZC+QFrjeMAc68MsKX THn7YqZdVoW2F9v8FkA89Iiqb+PNF2Dgos5cphsxaSAsJNG7dQcu1p+YdRH8si3S kbzX+X+nJ6unVp+7WKL+0jJo/4+SZWICft3Xl/go3rGqxb4WXXzJi16ykxZN3ZIs UxktABEBAAHCwoQEGAEKAA8FAl5453sFCQ8JnAACGy4BKQkQIDqu4Q79YHbAX SAE GQEKAAYFAl5453sACgkQsL3+x6z8eLNTVwf/Vuoj0We9oO3xj9Z5XvqeOzT3tf8L p0UzqameAglonxlAzRakjdaymtVKubntlkRDnhoPKEonQtuUcMlEJFknCSeVCk/h fF+ghWdHTlh+/A7UeDxxdEtSJkNsajm9XcgeRYwYTMOEJpRdPNvoZ0/ EwBKM0eJM 2sfIQNv4BS6MSDtVbPL9iRTjIEZZGfdVgNhU2LvzPgEz5Uc260YexOyVISMiilMi 0c6l4l1hfZeSI5Di9OXDSWYBPaitBgQr6NOa3uZmfinda8LWSZPDnQat/AVvzEzc mwuaU/esI7ZvtiUBR+dpNP9m2vQRml5U9xcO9KDYWszm7d1gifRkwB/0qeY7D/wP Swo0Yz3nG2Pb7Rb+imKKRker3z/LQMpQDDEgpy2QsN+r+ +jHimXYGMA5qdSM7R5Y xDkI4AtryFQVy4dGSzbeooZMaQ8xyx1FtiIJzWz8XLltPkaKh/ZXUhTPeDOPCCZZ Lb0uEtLxZ3BldRQ1RZTIl6sHlgsjRDiPsLxAKZSr7i721wF3eaYDT61iwh/6myr9 59dE7yN2VmDkItmnP8t19VeN33a58uNul0lDPSKFK43J4Kc8s7mA4BaSY1k4ZBi2 hTdJATbBcrhQJ1zF2xYnwozePKAQ564mnZvBC3erh0lo2gwXhHQkGWpDlF27N06 Q AyQ7i9UMh1Uk9WT3fvyLRyWpC501CdwAVtc5TCbtFzlHmDiXx5cWCTpsFZ/9iVGC F13R79yqxtC7lU48jjtCG812iUUjtDR/c2WjWwX/ivQ2Vcnmg8a0sYfXEEuf2NCx 9eNMkPky+EDh9gLTMWs4OuuBasP+4lsQwFS+76nnkV8DejMiqDi5SJ7Z41jgJe+z Y4zZuWYfzZ3kmwocXgL1oJ70EbInz30qPgvXFYe7zvQ7pTiY5PLxjvRskgL/5KdL
+d02bd7d9de3951c7339afb4c81b9b309|file:///Users/home/Desktop/pgp.asc|1|1|V|
+	SC65wXLO9gY/e215k//iwOoZsc+UVE/VixEPX+sibYXdaznnQRPqXq/y9vGYydxu l9OvH2XiyiJjlRWE80GOvaI8f4ULmaor9j9S4+bO1w==
+088320439cd34a8701ec38a11e27c4c7|file:///Users/home/Desktop/pgp.asc|1|1|V|
+	=ZYT6

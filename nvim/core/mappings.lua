@@ -1,6 +1,11 @@
 local keymap = vim.keymap
 local api = vim.api
 
+-- Remap Copilot to Alt/Option, . 
+--keymap.set('i', '<M-.>', '<Plug>(copilot-next)')
+--keymap.set('i', '<M-,>', '<Plug>(copilot-previous)')
+--keymap.set('i', '<C-j>', '<Plug>(copilot-tab)')
+
 -- Save key strokes (now we do not need to press shift to enter command mode).
 keymap.set({ "n", "x" }, ";", ":")
 
